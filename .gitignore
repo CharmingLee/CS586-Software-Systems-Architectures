@@ -1,0 +1,10 @@
+/target/
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+/Project_Sourcecode_java/.idea/
+
+### mac #####
+.DS_Store
